@@ -1,6 +1,6 @@
 ## I'm a student, Boss, Genius.
 
-- 👨‍💻 Bmstu student
+- 👨‍💻 Bmstu student, iu5
 - 🤵 18 y.o
 - ↗️ First course
 - 🎮 I play clash of clans and brawl stars!!
