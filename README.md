@@ -1,6 +1,9 @@
 ## I'm a student, Boss, Genius.
-- 💪 I like to write code
-- 🥅 I play clash of clans and brawl stars!!
+
+- 👨‍💻 Bmstu student
+- 🤵 18 y.o
+- ↗️ First course
+- 🎮 I play clash of clans and brawl stars!!
 - 🧙 Harry Potter is the Best movie ever
 
 ### Connect with me:
