@@ -5,6 +5,6 @@
 
 ### Connect wth me:
 
-[https://www.instagram.com/permyakoovv/]
-[https://vk.com/boss_permyakoovv]
+-Instargam https://www.instagram.com/permyakoovv/
+-VK https://vk.com/boss_permyakoovv
 
