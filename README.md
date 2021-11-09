@@ -1,11 +1,11 @@
-## I'm a student, boss, genius.
+## I'm a student, Boss, Genius.
 💪 I like to write code
-🎉 I love to paint and play brawl stars!!
-🥅 I play clash of clans
-
+🥅 I play clash of clans and brawl stars!!
+🧙 Harry Potter is the Best movie ever
 
 ### Connect wth me:
 
 [<img alight="left" alt=" DimaPermyakov | VK" widtn="22px" scr="" /> ] [vk]
-
+[<img alight="left" alt=" DimaPermyakov | Instagram" widtn="22px" scr="" /> ] [instargram]
 [vk]: https://vk.com/boss_permyakoovv
+[instargram] https://www.instagram.com/permyakoovv/
