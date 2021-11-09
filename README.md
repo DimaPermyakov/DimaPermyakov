@@ -8,6 +8,7 @@
 
 ### Connect with me:
 
-- Instargam https://www.instagram.com/permyakoovv/
 - VK https://vk.com/boss_permyakoovv
+- Instargam https://www.instagram.com/permyakoovv/
+
 
