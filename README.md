@@ -6,6 +6,6 @@
 
 ### Connect wth me:
 
-[<img alight="left" alt=" DimaPermyakov | VK" widtn="22px" scr="https://yandex.ru/images/search?from=tabbar&text=%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%BA%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0&pos=1&img_url=https%3A%2F%2Fi0.wp.com%2Fedrublevsky.ru%2Fwp-content%2Fuploads%2F2016%2F01%2F%25D0%25B2%25D0%25BA-%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BA%25D0%25B0.png&rpt=simage" /> ] [vk]
+[<img alight="left" alt=" DimaPermyakov | VK" widtn="22px" scr="" /> ] [vk]
 
 [vk]: https://vk.com/boss_permyakoovv
