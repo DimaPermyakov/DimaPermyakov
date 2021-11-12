@@ -1,4 +1,4 @@
-<img src="lambargini.png" alt="drawing" width="200"/>
+![2](2.jpg)
 ## *I'm a Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
