@@ -1,4 +1,4 @@
-![2](lamborgini.jpg)
+![2](Lamborgini.jpg)
 ## *I'm a Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
