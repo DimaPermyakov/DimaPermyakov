@@ -5,9 +5,10 @@
 - 🤵 18 y.o
 - ↗️ First course 
 - 🧙 Harry Potter is the Best movie ever
-- 🎮 I play 
+- 🎮 My games:
+  - Hearthstone
+  - Pubg
   - clash of clans
-  - brawl stars!!
 
 ---
 
