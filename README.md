@@ -1,15 +1,9 @@
 ![2](Dima.jpg)
-## *I'm a Student, Boss, Genius.*
+## *I'm Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
 - 🤵 18 y.o
 - ↗️ First course 
-- 🧙 Harry Potter is the Best movie ever
-- 🎮 My games:
-  - Hearthstone
-  - Pubg
-  - clash of clans
-
 ---
 
 ### Connect with me:
