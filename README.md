@@ -1,4 +1,4 @@
-![2](dima_git.jpg)
+![2](Dima.jpg)
 ## *I'm Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
