@@ -3,7 +3,7 @@
 
 - 👨‍💻 Bmstu student, iu5
 - 🤵 18 y.o
-- ↗️ First course 
+- 🕴 First course 
 ---
 
 ### Connect with me:
