@@ -1,4 +1,4 @@
-![2](new photo.jpg)
+![2](newphoto.jpg)
 ## *I'm Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
