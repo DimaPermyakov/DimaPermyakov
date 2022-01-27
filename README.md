@@ -2,8 +2,9 @@
 ## *I'm Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
-- 🤵 18 y.o
+- 🤵 18 y.o. (24.03.2003)
 - 🕴 the first-year 
+- 🔬 С++, HTML, CSS, JavaScript, Python
 ---
 
 ### Connect with me:
