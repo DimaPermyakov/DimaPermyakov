@@ -7,6 +7,19 @@
 - 🔬 С++, HTML, CSS, JavaScript, Python
 - 🕹 AMD Ryzen 7 4700U with Radeon Graphics 2.00 GHz
 ---
+<div class="skills">
+  <h3>My skills:</h3>
+  <dl class="skills-list">
+    <dt class="skill-html">HTML</dt>
+    <dd class="level"><div style="width: 20%;">20%</div></dd>   
+    <dt class="skill-css">CSS</dt>
+    <dd class="level"><div style="width: 20%;">20%</div></dd>
+    <dt class="skill-c++">C++</dt>
+    <dd class="level"><div style="width: 10%;">10%</div></dd>
+    <dt class="skill-c++">Pyton </dt>
+    <dd class="level"><div style="width: 5%;">5%</div></dd>
+  </dl>
+</div>
 
 ### Connect with me:
 
