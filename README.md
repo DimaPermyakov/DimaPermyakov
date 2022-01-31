@@ -2,7 +2,7 @@
 ## *I'm Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
-- 🤵 18 y.o. (24.03.2003)
+- 🤵 18 y.o. (14.03.2003)
 - 🕴 the first-year 
 - 🔬 С++, HTML, CSS, JavaScript, Python
 - 🕹 AMD Ryzen 7 4700U with Radeon Graphics 2.00 GHz
