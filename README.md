@@ -11,13 +11,13 @@
   <h3>My skills:</h3>
   <dl class="skills-list">
     <dt class="skill-html">HTML</dt>
-    <dd class="level"><div style="width: 40%;">20%</div></dd>   
+    <dd class="level"><div style="width: 40%;">40%</div></dd>   
     <dt class="skill-css">CSS</dt>
-    <dd class="level"><div style="width: 40%;">20%</div></dd>
+    <dd class="level"><div style="width: 40%;">40%</div></dd>
     <dt class="skill-c++">C++</dt>
-    <dd class="level"><div style="width: 15%;">10%</div></dd>
+    <dd class="level"><div style="width: 15%;">15%</div></dd>
     <dt class="skill-c++">Pyton </dt>
-    <dd class="level"><div style="width: 10%;">5%</div></dd>
+    <dd class="level"><div style="width: 10%;">10%</div></dd>
   </dl>
 </div>
 
