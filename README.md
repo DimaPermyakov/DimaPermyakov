@@ -21,6 +21,10 @@
   </dl>
 </div>
 
+.skills{
+  color: red;
+}
+
 ### Connect with me:
 
 | Social network | My clan in the | 
