@@ -1,5 +1,5 @@
 ![2](гит.jpg)
-## *I'm Student, Boss, Genius.*
+## *Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, iu5
 - 🤵 19 y.o. (14.03.2003)
