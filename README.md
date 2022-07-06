@@ -4,7 +4,7 @@
 - 👨‍💻 Bmstu student, iu5
 - 🤵 19 y.o. (14.03.2003)
 - 🕴 a second-year student
-- 🔬 С++, HTML, CSS, JavaScript, Python
+- 🔬 С++, Python, HTML, CSS, JavaScript [learning]
 - 🕹 AMD Ryzen 7 4700U with Radeon Graphics 2.00 GHz
 ---
 
