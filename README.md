@@ -11,7 +11,7 @@
  ![C++](https://img.shields.io/badge/-C++-090909?style=flat-square&logo=C%2b%2b&logoColor=800080)
 ![Python](https://img.shields.io/badge/Python-090909?style=flat-square&logo=python&logoColor=DAA520)
 
-### Connect withme in social networks:
+### Connect with me in social networks:
 [![VK](https://img.shields.io/badge/-VK-090909?style=flat-square&logo=vk&logoColor=1E90FF)](https://vk.com/bosspermyakoovv)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&logoColor=1E90FF)](https://t.me/Permyakoovv)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=flat-square&logo=Instagram&logoColor=C13584)](https://www.instagram.com/permyakoovv/)
