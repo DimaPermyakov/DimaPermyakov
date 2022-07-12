@@ -1,11 +1,11 @@
 ![2](гит.jpg)
 ## *Student, Boss, Genius.*
 
-- 👨‍💻 Bmstu student, [IU5](https://github.com/DimaPermyakov/IU5)
-- 🤵 19 y.o. (14.03.2003)
-- 🕴 The second-year student
-- 🔬 С++, Python, HTML, CSS, JavaScript
-- 🕹 AMD Ryzen 7 4700U with Radeon Graphics 2.00 GHz
+- 👨‍💻 Bmstu student, [IU5](https://github.com/DimaPermyakov/IU5.)
+- 🤵 19 y.o. (14.03.2003).
+- 🕴 The second-year student.
+- 🔬 С++, Python, HTML, CSS, JavaScript.
+- 🕹 AMD Ryzen 7 4700U with Radeon Graphics 2.00 GHz.
 ---
 ### Languges:<br>
  ![C++](https://img.shields.io/badge/-C++-090909?style=flat-square&logo=C%2b%2b&logoColor=800080)
