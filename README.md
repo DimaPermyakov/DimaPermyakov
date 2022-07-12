@@ -20,7 +20,7 @@
 ### Stats:
 [![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitriy&hide=contribs,prs&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/DimaPermyakov)
 ### Connect with me in the games:
-| Game | hashtag        |
+| Game | Hashtag        |
 |:---------:|:---------:|
 | Clash of clans | #2LU8URU2J|
 | Hearthstone    | #29108 | 
