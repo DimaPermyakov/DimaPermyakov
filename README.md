@@ -1,7 +1,7 @@
 ![2](гит.jpg)
 ## *Student, Boss, Genius.*
 
-- 👨‍💻 Bmstu student, [IU5](https://github.com/DimaPermyakov/IU5.)
+- 👨‍💻 Bmstu student, [IU5](https://github.com/DimaPermyakov/IU5)
 - 🤵 19 y.o. (14.03.2003).
 - 🕴 The second-year student.
 - 🔬 С++, Python, HTML, CSS, JavaScript.
