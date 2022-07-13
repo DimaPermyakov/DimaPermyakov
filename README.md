@@ -18,7 +18,9 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat-square&logo=Facebook&logoColor=4682B4)](https://www.facebook.com/profile.php?id=100021715921839)
 
 ### Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaPermyakov)](https://github.com/DimaPermyakov) <br>
 [![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitriy&hide=contribs,prs&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/DimaPermyakov)
+
 ### Connect with me in the games:
 | Game | Hashtag        |
 |:---------:|:---------:|
