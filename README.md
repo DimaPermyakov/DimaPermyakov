@@ -11,6 +11,10 @@
  ![C++](https://img.shields.io/badge/-C++-090909?style=flat-square&logo=C%2b%2b&logoColor=800080)
 ![Python](https://img.shields.io/badge/Python-090909?style=flat-square&logo=python&logoColor=DAA520)
 
+### Operating system
+![Windows](https://img.shields.io/badge/windows-090909?style=flat-square&logo=Windows&logoColor=00BFFF)
+![Linux](https://img.shields.io/badge/linux-090909?style=flat-square&logo=Linux&logoColor=ffffff)
+
 ### Connect with me in social networks:
 [![VK](https://img.shields.io/badge/-VK-090909?style=flat-square&logo=vk&logoColor=1E90FF)](https://vk.com/bosspermyakoovv)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&logoColor=1E90FF)](https://t.me/Permyakoovv)
