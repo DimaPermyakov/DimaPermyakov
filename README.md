@@ -8,8 +8,8 @@
 - 🕹 AMD Ryzen 7 4700U with Radeon Graphics 2.00 GHz.
 ---
 ### Languges:<br>
- ![C++](https://img.shields.io/badge/-C++-090909?style=flat-square&logo=C%2b%2b&logoColor=800080)
-![Python](https://img.shields.io/badge/Python-090909?style=flat-square&logo=python&logoColor=DAA520)
+ [![C++](https://img.shields.io/badge/-C++-090909?style=flat-square&logo=C%2b%2b&logoColor=800080)](https://docs.microsoft.com/ru-ru/cpp/cpp/cpp-language-reference?view=msvc-170)
+[![Python](https://img.shields.io/badge/Python-090909?style=flat-square&logo=python&logoColor=DAA520)](https://www.python.org/downloads/)
 
 ### Operating system:
 ![Windows](https://img.shields.io/badge/windows-090909?style=flat-square&logo=Windows&logoColor=00BFFF)
