@@ -1,4 +1,4 @@
-![2](гит.jpg)
+![boss-ava](гит.jpg)
 ## *Student, Boss, Genius.*
 
 - 👨‍💻 Bmstu student, [IU5](https://github.com/DimaPermyakov/IU5)
@@ -29,7 +29,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaPermyakov&langs_count=10&layout=compact&theme=midnight-purple&icon_color=007bff"/>
 </div>
 </div>
-<br><br>
+<br>
 
 ### Connect with me in the games:
 | Game | Hashtag        |
