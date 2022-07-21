@@ -21,8 +21,15 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=flat-square&logo=Instagram&logoColor=C13584)](https://www.instagram.com/permyakoovv/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat-square&logo=Facebook&logoColor=4682B4)](https://www.facebook.com/profile.php?id=100021715921839)
 
-### Stats:
-[![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitriy&hide=contribs,prs&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/DimaPermyakov)
+### Stats: 
+<br>
+<div align="left" style="display: flex;">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimaPermyakov&show_icons=true&theme=midnight-purple" />
+    <div align="left" style="display: flex;">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaPermyakov&langs_count=10&layout=compact&theme=midnight-purple&icon_color=007bff"/>
+</div>
+</div>
+<br><br>
 
 ### Connect with me in the games:
 | Game | Hashtag        |
@@ -31,6 +38,3 @@
 | Hearthstone    | #29108 | 
 | Pubg Mobile    | id:528646980 | 
 | Кофейня        | id:50027328 | 
-
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaPermyakov)](https://github.com/DimaPermyakov) 
