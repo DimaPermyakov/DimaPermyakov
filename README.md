@@ -26,7 +26,7 @@
 <div align="left" style="display: flex;">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimaPermyakov&show_icons=true&theme=midnight-purple" />
     <div align="left" style="display: flex;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaPermyakov&langs_count=10&layout=compact&theme=midnight-purple&icon_color=007bff"/>
+    <img height="152.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaPermyakov&langs_count=10&layout=compact&theme=midnight-purple&icon_color=007bff"/>
 </div>
 </div>
 <br>
